@@ -14,7 +14,8 @@ class Pig implements Animal1{
     }
 }
 
-public class Animal {
+  //separate file
+public class Animal {  
 
     public static void main(String[] args) {
         Pig piggy = new Pig();
