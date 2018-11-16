@@ -21,6 +21,8 @@ class ImplementingClass implements FirstInterface, SecondInterface{
         System.out.println("Nice to meet you!");
     }
 }
+
+//separate file
 public class MyClass {
     public static void main(String[] args) {
 
